@@ -1,3 +1,4 @@
+// Paquete main de Prueba para PaaS Studio - Go Lang
 package main
 
 import "fmt"
